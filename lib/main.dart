@@ -28,7 +28,7 @@ class LoginPageState extends State<LoginPage> {
         fit: StackFit.expand,
         children: <Widget>[
           new Image(
-            image: new AssetImage("asssets/d.jpg"),
+            image: new AssetImage("assets/d.jpg"),
             fit: BoxFit.cover,
             color: Colors.black87,
             colorBlendMode: BlendMode.darken,
